@@ -13,8 +13,8 @@ $api_cmd = &virtual_server::get_api_helper_command();
 sub get_disable_at_command
 {
 local ($d) = @_;
-local ($job) = grep { $_->{'realcmd'} eq $api_cmd." disable-domain --domain ".
-					 $d->{'dom'} } &at::list_atjobs();
+local $re = $api_cmd." disable-domain --domain ".$d->{'dom'};
+local ($job) = grep { $_->{'realcmd'} =~ /\Q$re\E/ } at::list_atjobs();
 return $job;
 }
 
