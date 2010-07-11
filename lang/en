@@ -1,2 +1,14 @@
-feat_name=Scheduled domain disable
+feat_name=Scheduled Disable Virtual Server
 links_disable=Scheduled Disable
+
+edit_edomain=The selected virtual server does not exist!
+edit_title=Scheduled Disable
+edit_header=Scheduled disable virtual server options
+edit_state=Current state
+edit_disabled=Disabled
+edit_enabled=Enabled
+edit_when=When to disable
+edit_never=Never
+edit_date=On date
+edit_time=At time
+edit_now=Current date and time
