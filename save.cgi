@@ -20,9 +20,11 @@ if ($in{'when'}) {
 	if ($job) {
 		&at::delete_atjob($job->{'id'});
 		}
+	&clean_environment();
 	&at::create_atjob("root", $date,
 			  $api_cmd." disable-domain --domain ".$d->{'dom'},
 			  "/", undef);
+	&reset_environment();
 	}
 else {
 	# Remove the at job
