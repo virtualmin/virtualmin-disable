@@ -16,3 +16,4 @@ edit_now=Current date and time
 save_err=Failed to save scheduled disable
 save_edate=Invalid date or time
 save_edate2=Date to disable is in the past!
+__norefs=1
