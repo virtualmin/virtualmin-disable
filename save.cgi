@@ -21,6 +21,7 @@ if ($in{'when'}) {
 		&at::delete_atjob($job->{'id'});
 		}
 	&clean_environment();
+	$api_cmd = &virtual_server::get_api_helper_command();
 	&at::create_atjob("root", $date,
 			  $api_cmd." disable-domain --domain ".$d->{'dom'},
 			  "/", undef);
