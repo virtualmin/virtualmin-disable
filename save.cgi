@@ -14,7 +14,7 @@ $job = &get_disable_at_command($d);
 if ($in{'when'}) {
 	# Validate date and time
 	eval { $date = timelocal(0, $in{'minute'}, $in{'hour'},
-                         $in{'day'}, $in{'month'}, $in{'year'}-1900) };
+                         $in{'day'}, $in{'month'}-1, $in{'year'}-1900) };
 	$@ && &error($text{'save_edate'});
 	$date > time() || &error($text{'save_edate2'});
 	if ($job) {
