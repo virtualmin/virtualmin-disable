@@ -2,3 +2,4 @@ desc=Virtualmin Scheduled Disable
 hidden=1
 depends=virtual-server at
 version=1.2
+desc_nl=Virtualmin Planning Uitschakelen

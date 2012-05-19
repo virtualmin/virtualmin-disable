@@ -1,0 +1,17 @@
+__norefs=1
+edit_date=Op de datum
+edit_disabled=Uitgeschakeld
+edit_edomain=De geselecteerde server bestaat niet!
+edit_enabled=Ingeschakeld
+edit_header=Virtuele server uitschakelen via een planning
+edit_never=Nooit
+edit_now=Huidige datum en tijd
+edit_state=Huidige status
+edit_time=Op de tijd
+edit_title=Op Planning Uitschakelen
+edit_when=Wanneer uitschakelen
+feat_name=Virtuele Server Uitschakelen Via een Planning
+links_disable=Op Planning Uitschakelen
+save_edate=Ongeldige datum of tijd
+save_edate2=Datum om uit te schakelen is in het verleden!
+save_err=Gepland uitschakelen opslaan is mislukt
