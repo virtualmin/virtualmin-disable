@@ -2,6 +2,14 @@
 
 require 'virtualmin-disable-lib.pl';
 
+sub feature_check
+{
+if (&foreign_installed("at", 1) != 2) {
+	return $text{'check_eat'};
+	}
+return undef;
+}
+
 # feature_name()
 # Returns a short name for this feature
 sub feature_name

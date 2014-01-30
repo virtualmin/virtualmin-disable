@@ -1,6 +1,7 @@
 feat_name=Disable Virtual Server On Schedule
 links_disable=Disable On Schedule
 
+check_eat=The <tt>at</tt> command used for scheduling domain deletions is not
 edit_edomain=The selected virtual server does not exist!
 edit_title=Disable On Schedule
 edit_header=Disable virtual server on schedule
