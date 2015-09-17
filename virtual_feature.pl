@@ -25,7 +25,7 @@ sub feature_always_links
 local ($d) = @_;
 return ( { 'mod' => $module_name,
 	   'desc' => $text{'links_disable'},
-	   'page' => 'edit.cgi?dom='.$d->{'dom'},
+	   'page' => 'edit.cgi?dom='.$d->{'id'},
 	   'cat' => 'delete' });
 }
 

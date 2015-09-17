@@ -5,7 +5,7 @@ require 'virtualmin-disable-lib.pl';
 use Time::Local;
 &error_setup($text{'save_err'});
 &ReadParse();
-$d = &virtual_server::get_domain_by("dom", $in{'dom'});
+$d = &virtual_server::get_domain($in{'dom'});
 $d || &error($text{'edit_edomain'});
 &virtual_server::can_disable_domain($d) ||
 	&error($virtual_server::text{'edit_ecannot'});
