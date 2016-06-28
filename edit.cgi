@@ -1,12 +1,17 @@
 #!/usr/local/bin/perl
 # Show form to setup scheduled disable
+use strict;
+use warnings;
+our (%text, %in);
 
 require 'virtualmin-disable-lib.pl';
 &ReadParse();
-$d = &virtual_server::get_domain($in{'dom'});
+my $d = &virtual_server::get_domain($in{'dom'});
 $d || &error($text{'edit_edomain'});
+no warnings "once";
 &virtual_server::can_disable_domain($d) ||
 	&error($virtual_server::text{'edit_ecannot'});
+use warnings "once";
 
 &ui_print_header(&virtual_server::domain_in($d), $text{'edit_title'}, "");
 
@@ -24,7 +29,8 @@ print &ui_table_row($text{'edit_now'},
 	&make_date(time(), 0, "dd/mon/yyyy"));
 
 # When to disable
-$job = &get_disable_at_command($d);
+my $job = &get_disable_at_command($d);
+my @tm;
 if ($job) {
 	@tm = localtime($job->{'date'});
 	}

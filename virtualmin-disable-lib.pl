@@ -1,4 +1,7 @@
 # Functions for scheduled disable
+use strict;
+use warnings;
+our %access;
 
 BEGIN { push(@INC, ".."); };
 eval "use WebminCore;";
@@ -11,10 +14,10 @@ eval "use WebminCore;";
 # Returns the at job that disables some domain, if any
 sub get_disable_at_command
 {
-local ($d) = @_;
-local $api_cmd = &virtual_server::get_api_helper_command();
-local $re = $api_cmd." disable-domain --domain ".$d->{'dom'};
-local ($job) = grep { $_->{'realcmd'} =~ /\Q$re\E/ } at::list_atjobs();
+my ($d) = @_;
+my $api_cmd = &virtual_server::get_api_helper_command();
+my $re = $api_cmd." disable-domain --domain ".$d->{'dom'};
+my ($job) = grep { $_->{'realcmd'} =~ /\Q$re\E/ } at::list_atjobs();
 return $job;
 }
 

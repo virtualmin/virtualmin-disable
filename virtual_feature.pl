@@ -1,4 +1,8 @@
 # Defines functions for this feature
+use strict;
+use warnings;
+our (%text);
+our $module_name;
 
 require 'virtualmin-disable-lib.pl';
 
@@ -22,7 +26,7 @@ return $text{'feat_name'};
 # this feature is enabled or not
 sub feature_always_links
 {
-local ($d) = @_;
+my ($d) = @_;
 return ( { 'mod' => $module_name,
 	   'desc' => $text{'links_disable'},
 	   'page' => 'edit.cgi?dom='.$d->{'id'},
