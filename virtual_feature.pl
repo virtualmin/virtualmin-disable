@@ -18,7 +18,7 @@ return undef;
 # Returns a short name for this feature
 sub feature_name
 {
-return $text{'feat_name'};
+return $text{'edit_header'};
 }
 
 # feature_always_links(&domain)
