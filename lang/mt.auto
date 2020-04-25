@@ -1,0 +1,17 @@
+feat_name=Itfi s-server virtwali fl-iskeda
+links_disable=Itfi Fuq Skeda
+check_eat=Il <tt>at</tt> -kmand jintuża biex jiġu diżattivati dominju fuq l-iskeda mhux installat
+edit_edomain=Is-server virtwali magħżul ma jeżistix!
+edit_title=Itfi Fuq Skeda
+edit_header=Itfi s-server virtwali fl-iskeda
+edit_state=Stat attwali
+edit_disabled=B'diżabilità
+edit_enabled=Attivat
+edit_when=Meta tiddiżattiva
+edit_never=Qatt
+edit_date=Data
+edit_time=Ħin
+edit_now=Data u ħin kurrenti
+save_err=Ma rnexxielux isalva skedat iddiżattiva
+save_edate=Data jew ħin mhux validi
+save_edate2=Id-data li tiddiżattiva hija fil-passat!

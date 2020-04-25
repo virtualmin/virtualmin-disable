@@ -1,0 +1,17 @@
+feat_name=Skakel virtuele bediener volgens skedule uit
+links_disable=Deaktiveer op skedule
+check_eat=Die <tt>at</tt> bevel wat gebruik word vir die aanskakel van domein op skedule is nie geïnstalleer
+edit_edomain=Die gekose virtuele bediener bestaan nie!
+edit_title=Deaktiveer op skedule
+edit_header=Skakel virtuele bediener volgens skedule uit
+edit_state=Huidige toestand
+edit_disabled=gestremde
+edit_enabled=enabled
+edit_when=Wanneer om uit te skakel
+edit_never=nooit
+edit_date=datum
+edit_time=tyd
+edit_now=Huidige datum en tyd
+save_err=Kon nie geskeduleerde afskakeling stoor nie
+save_edate=Ongeldige datum of tyd
+save_edate2=Die datum om uit te skakel is in die verlede!

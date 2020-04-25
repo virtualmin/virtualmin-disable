@@ -1,0 +1,17 @@
+feat_name=השבת שרת וירטואלי על פי לוח הזמנים
+links_disable=השבת בתוספת
+check_eat=הפקודה <tt>at</tt> המשמשת להשבית דומיין בלוח הזמנים אינה מותקנת
+edit_edomain=השרת הוירטואלי שנבחר אינו קיים!
+edit_title=השבת בתוספת
+edit_header=השבת שרת וירטואלי על פי לוח הזמנים
+edit_state=מצב נוכחי
+edit_disabled=נכים
+edit_enabled=מופעל
+edit_when=מתי להשבית
+edit_never=לעולם לא
+edit_date=תאריך
+edit_time=זמן
+edit_now=תאריך ושעה נוכחיים
+save_err=שמירת ההשבתה המתוכננת נכשלה
+save_edate=תאריך ושעה לא חוקיים
+save_edate2=תאריך ההשבתה היה בעבר!

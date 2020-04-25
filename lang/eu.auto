@@ -1,0 +1,17 @@
+feat_name=Desgaitu zerbitzari birtuala planifikazioan
+links_disable=Desgaitu egutegian
+check_eat=The <tt>at</tt> instalatu gabe dago domeinu ordutegi indargabetzeko komandoa
+edit_edomain=Hautatutako zerbitzari birtuala ez da existitzen!
+edit_title=Desgaitu egutegian
+edit_header=Desgaitu zerbitzari birtuala planifikazioan
+edit_state=Egungo egoera
+edit_disabled=Desgaituta
+edit_enabled=Gaituta
+edit_when=Noiz desgaitu
+edit_never=Inoiz ez
+edit_date=data
+edit_time=Ordua
+edit_now=Oraingo data eta ordua
+save_err=Ezin izan da programatu desgaitu gordetzea
+save_edate=Data edo ordua baliogabea
+save_edate2=Desgaitzeko data iraganean dago!

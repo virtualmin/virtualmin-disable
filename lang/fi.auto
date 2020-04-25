@@ -1,0 +1,17 @@
+feat_name=Poista virtuaalipalvelin käytöstä aikataulussa
+links_disable=Poista käytöstä aikataulussa
+check_eat=Verkkotunnuksen käytöstä poistamisen aikataulussa käytettyä komentoa <tt>at</tt> ei ole asennettu
+edit_edomain=Valittua virtuaalipalvelinta ei ole!
+edit_title=Poista käytöstä aikataulussa
+edit_header=Poista virtuaalipalvelin käytöstä aikataulussa
+edit_state=Nykyinen tila
+edit_disabled=Liikuntarajoitteinen
+edit_enabled=käytössä
+edit_when=Milloin käytöstä
+edit_never=Ei koskaan
+edit_date=Päivämäärä
+edit_time=Aika
+edit_now=Nykyinen päivämäärä ja aika
+save_err=Ajastetun käytöstä poistamisen tallentaminen epäonnistui
+save_edate=Virheellinen päivämäärä tai aika
+save_edate2=Poistamispäivämäärä on mennyt!

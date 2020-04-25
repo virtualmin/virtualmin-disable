@@ -1,0 +1,17 @@
+feat_name=Désactiver le serveur virtuel dans les délais
+links_disable=Désactiver à temps
+check_eat=La commande <tt>at</tt> utilisée pour désactiver le domaine selon le calendrier n'est pas installée
+edit_edomain=Le serveur virtuel sélectionné n'existe pas!
+edit_title=Désactiver à temps
+edit_header=Désactiver le serveur virtuel dans les délais
+edit_state=État actuel
+edit_disabled=désactivé
+edit_enabled=Activée
+edit_when=Quand désactiver
+edit_never=Jamais
+edit_date=Date
+edit_time=Temps
+edit_now=Date et heure actuelles
+save_err=Impossible d'enregistrer la désactivation planifiée
+save_edate=Date ou heure non valide
+save_edate2=La date de désactivation est révolue!

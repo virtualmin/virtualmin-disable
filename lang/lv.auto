@@ -1,0 +1,17 @@
+feat_name=Atspējot virtuālo serveri pēc grafika
+links_disable=Atspējot pēc grafika
+check_eat=Komanda <tt>at</tt> izmantota domēna atspējošanai pēc grafika, nav instalēta
+edit_edomain=Atlasītais virtuālais serveris neeksistē!
+edit_title=Atspējot pēc grafika
+edit_header=Atspējot virtuālo serveri pēc grafika
+edit_state=Pašreizējais stāvoklis
+edit_disabled=Invalīds
+edit_enabled=Iespējots
+edit_when=Kad atspējot
+edit_never=Nekad
+edit_date=Datums
+edit_time=Laiks
+edit_now=Pašreizējais datums un laiks
+save_err=Neizdevās saglabāt plānoto atspējot
+save_edate=Nederīgs datums vai laiks
+save_edate2=Atspējošanas datums ir pagātnē.

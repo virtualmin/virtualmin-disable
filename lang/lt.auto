@@ -1,0 +1,17 @@
+feat_name=Išjunkite virtualų serverį pagal tvarkaraštį
+links_disable=Išjungti pagal tvarkaraštį
+check_eat=Komanda „ <tt>at</tt> naudojama domenui išjungti pagal tvarkaraštį, neįdiegta
+edit_edomain=Pasirinktas virtualus serveris neegzistuoja!
+edit_title=Išjungti pagal tvarkaraštį
+edit_header=Išjunkite virtualų serverį pagal tvarkaraštį
+edit_state=Dabartinė būsena
+edit_disabled=Neįgalus
+edit_enabled=Įjungtas
+edit_when=Kada išjungti
+edit_never=Niekada
+edit_date=Data
+edit_time=Laikas
+edit_now=Dabartinė data ir laikas
+save_err=Nepavyko išsaugoti suplanuoto išjungimo
+save_edate=Netinkama data arba laikas
+save_edate2=Išjungimo data jau praeityje!

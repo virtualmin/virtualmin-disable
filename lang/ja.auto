@@ -1,0 +1,17 @@
+feat_name=スケジュールに従って仮想サーバーを無効にする
+links_disable=スケジュールどおりに無効にする
+check_eat=スケジュールに従ってドメインを無効にするために使用される<tt>at</tt>コマンドがインストールされていません
+edit_edomain=選択した仮想サーバーは存在しません！
+edit_title=スケジュールどおりに無効にする
+edit_header=スケジュールに従って仮想サーバーを無効にする
+edit_state=現在の状態
+edit_disabled=無効
+edit_enabled=有効
+edit_when=無効にするタイミング
+edit_never=決して
+edit_date=日付
+edit_time=時間
+edit_now=現在の日時
+save_err=スケジュールされた無効化を保存できませんでした
+save_edate=無効な日付または時刻
+save_edate2=無効にする日付は過去です！

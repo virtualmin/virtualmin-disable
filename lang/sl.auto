@@ -1,0 +1,17 @@
+feat_name=Onemogoči virtualni strežnik po urniku
+links_disable=Onemogoči na urniku
+check_eat=Ukaz <tt>at</tt> uporablja za onemogočanje domene po urniku, ni nameščen
+edit_edomain=Izbrani virtualni strežnik ne obstaja!
+edit_title=Onemogoči na urniku
+edit_header=Onemogoči virtualni strežnik po urniku
+edit_state=Trenutno stanje
+edit_disabled=Onemogočeno
+edit_enabled=Omogočeno
+edit_when=Kdaj onemogočiti
+edit_never=Nikoli
+edit_date=Datum
+edit_time=Čas
+edit_now=Trenutni datum in čas
+save_err=Onemogočeno načrtovanje ni mogoče shraniti
+save_edate=Neveljaven datum ali ura
+save_edate2=Datum onemogočanja je v preteklosti!

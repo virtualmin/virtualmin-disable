@@ -1,0 +1,17 @@
+feat_name=Onemogućite virtualni poslužitelj prema rasporedu
+links_disable=Onemogući na rasporedu
+check_eat=Naredba <tt>at</tt> koristi za onemogućavanje domene prema rasporedu nije instalirana
+edit_edomain=Odabrani virtualni poslužitelj ne postoji!
+edit_title=Onemogući na rasporedu
+edit_header=Onemogućite virtualni poslužitelj prema rasporedu
+edit_state=Trenutna država
+edit_disabled=Onemogućeno
+edit_enabled=Omogućeno
+edit_when=Kada onesposobiti
+edit_never=Nikada
+edit_date=Datum
+edit_time=Vrijeme
+edit_now=Trenutni datum i vrijeme
+save_err=Onemogući spremanje zakazanog onemogućivanja nije uspjelo
+save_edate=Nevažeći datum ili vrijeme
+save_edate2=Datum za onemogućavanje je već prošli!

@@ -1,0 +1,17 @@
+feat_name=شیڈول پر ورچوئل سرور کو غیر فعال کریں
+links_disable=نظام الاوقات کو غیر فعال کریں
+check_eat=The <tt>at</tt> command used for disabling domain on schedule is not installed
+edit_edomain=منتخب کردہ ورچوئل سرور موجود نہیں ہے!
+edit_title=نظام الاوقات کو غیر فعال کریں
+edit_header=شیڈول پر ورچوئل سرور کو غیر فعال کریں
+edit_state=موجودہ حالت
+edit_disabled=غیر فعال
+edit_enabled=قابل بنایا گیا
+edit_when=جب نااہل کرنا ہے
+edit_never=کبھی نہیں
+edit_date=تاریخ
+edit_time=وقت
+edit_now=موجودہ تاریخ اور وقت
+save_err=شیڈول نااہل کو بچانے میں ناکام
+save_edate=غلط تاریخ یا وقت
+save_edate2=غیر فعال کرنے کی تاریخ ماضی میں ہے!

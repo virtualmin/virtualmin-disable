@@ -1,0 +1,17 @@
+feat_name=Disabilitare il server virtuale nei tempi previsti
+links_disable=Disabilita come da programma
+check_eat=Il comando <tt>at</tt> utilizzato per disabilitare il dominio nei tempi previsti non è installato
+edit_edomain=Il server virtuale selezionato non esiste!
+edit_title=Disabilita come da programma
+edit_header=Disabilitare il server virtuale nei tempi previsti
+edit_state=Stato attuale
+edit_disabled=Disabilitato
+edit_enabled=Abilitato
+edit_when=Quando disabilitare
+edit_never=Mai
+edit_date=Data
+edit_time=Tempo
+edit_now=Data e ora attuali
+save_err=Impossibile salvare la disabilitazione programmata
+save_edate=Data o ora non valide
+save_edate2=La data da disabilitare è nel passato!

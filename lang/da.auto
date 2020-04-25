@@ -1,0 +1,17 @@
+feat_name=Deaktiver virtuel server efter planen
+links_disable=Deaktiver i henhold til tidsplanen
+check_eat=Den <tt>at</tt> kommandoen der bruges til at deaktivere domæne på tidsplan er ikke installeret
+edit_edomain=Den valgte virtuelle server findes ikke!
+edit_title=Deaktiver i henhold til tidsplanen
+edit_header=Deaktiver virtuel server efter planen
+edit_state=Nuværende tilstand
+edit_disabled=handicappet
+edit_enabled=Aktiveret
+edit_when=Hvornår skal deaktiveres
+edit_never=Aldrig
+edit_date=Dato
+edit_time=Tid
+edit_now=Aktuel dato og tid
+save_err=Kunne ikke gemme planlagt deaktivering
+save_edate=Ugyldig dato eller tid
+save_edate2=Dato for at deaktivere er i fortiden!

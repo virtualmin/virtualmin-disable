@@ -1,0 +1,17 @@
+feat_name=Sanal sunucuyu zamanlamaya göre devre dışı bırak
+links_disable=Zamanlamada Devre Dışı Bırak
+check_eat=Zamanlamada alan adını devre dışı bırakmak için kullanılan <tt>at</tt> komutu yüklü değil
+edit_edomain=Seçilen sanal sunucu mevcut değil!
+edit_title=Zamanlamada Devre Dışı Bırak
+edit_header=Sanal sunucuyu zamanlamaya göre devre dışı bırak
+edit_state=Şu anki durum
+edit_disabled=engelli
+edit_enabled=Etkin
+edit_when=Ne zaman devre dışı bırakılır
+edit_never=Asla
+edit_date=tarih
+edit_time=zaman
+edit_now=Geçerli tarih ve saat
+save_err=Planlanmış devre dışı bırakma kaydedilemedi
+save_edate=Geçersiz tarih veya saat
+save_edate2=Devre dışı bırakma tarihi geçmişte!

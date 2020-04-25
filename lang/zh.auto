@@ -1,0 +1,17 @@
+feat_name=按计划禁用虚拟服务器
+links_disable=按计划禁用
+check_eat=未安装用于按计划禁用域的<tt>at</tt>命令
+edit_edomain=所选的虚拟服务器不存在！
+edit_title=按计划禁用
+edit_header=按计划禁用虚拟服务器
+edit_state=当前状态
+edit_disabled=残障人士
+edit_enabled=已启用
+edit_when=何时禁用
+edit_never=决不
+edit_date=日期
+edit_time=时间
+edit_now=当前日期和时间
+save_err=无法保存预定的停用功能
+save_edate=无效的日期或时间
+save_edate2=禁用日期是过去！

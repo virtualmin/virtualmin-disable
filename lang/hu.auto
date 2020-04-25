@@ -1,0 +1,17 @@
+feat_name=A virtuális szerver letiltása az ütemezés szerint
+links_disable=Letiltás az ütemezés szerint
+check_eat=A tartomány ütemezésének letiltásához használt <tt>at</tt> parancs nincs telepítve
+edit_edomain=A kiválasztott virtuális szerver nem létezik!
+edit_title=Letiltás az ütemezés szerint
+edit_header=A virtuális szerver letiltása az ütemezés szerint
+edit_state=Jelenlegi állapot
+edit_disabled=Tiltva
+edit_enabled=Bekapcsolt
+edit_when=Mikor kell letiltani
+edit_never=Soha
+edit_date=Dátum
+edit_time=Idő
+edit_now=Aktuális dátum és idő
+save_err=Az ütemezett letiltás mentése nem sikerült
+save_edate=Érvénytelen dátum vagy idő
+save_edate2=A letiltás dátuma már a múltban!

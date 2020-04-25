@@ -1,0 +1,17 @@
+feat_name=按計劃禁用虛擬服務器
+links_disable=按計劃禁用
+check_eat=未安裝用於按計劃禁用域的<tt>at</tt>命令
+edit_edomain=所選的虛擬服務器不存在！
+edit_title=按計劃禁用
+edit_header=按計劃禁用虛擬服務器
+edit_state=當前狀態
+edit_disabled=殘障人士
+edit_enabled=已啟用
+edit_when=何時禁用
+edit_never=決不
+edit_date=日期
+edit_time=時間
+edit_now=當前日期和時間
+save_err=無法保存預定的停用功能
+save_edate=無效的日期或時間
+save_edate2=禁用日期是過去！

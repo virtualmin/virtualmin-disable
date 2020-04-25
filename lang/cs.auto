@@ -1,0 +1,17 @@
+feat_name=Zakázat virtuální server podle plánu
+links_disable=Zakázat v plánu
+check_eat=Příkaz <tt>at</tt> používaný k zakázání domény podle plánu není nainstalován
+edit_edomain=Vybraný virtuální server neexistuje!
+edit_title=Zakázat v plánu
+edit_header=Zakázat virtuální server podle plánu
+edit_state=Aktuální stav
+edit_disabled=Zakázáno
+edit_enabled=Povoleno
+edit_when=Kdy zakázat
+edit_never=Nikdy
+edit_date=datum
+edit_time=Čas
+edit_now=Aktuální datum a čas
+save_err=Uložení naplánovaného vypnutí se nezdařilo
+save_edate=Neplatné datum nebo čas
+save_edate2=Datum deaktivace je v minulosti!

@@ -1,0 +1,17 @@
+feat_name=Deaktiver virtuell server etter planen
+links_disable=Deaktiver etter planen
+check_eat=Den <tt>at</tt> kommandoen brukes for å deaktivere domene etter planen ikke er installert
+edit_edomain=Den valgte virtuelle serveren eksisterer ikke!
+edit_title=Deaktiver etter planen
+edit_header=Deaktiver virtuell server etter planen
+edit_state=Nåværende situasjon
+edit_disabled=Funksjonshemmet
+edit_enabled=aktivert
+edit_when=Når skal du deaktivere
+edit_never=Aldri
+edit_date=Dato
+edit_time=Tid
+edit_now=Gjeldende dato og tid
+save_err=Kunne ikke lagre planlagt deaktivering
+save_edate=Ugyldig dato eller tid
+save_edate2=Dato for å deaktivere er i fortiden!

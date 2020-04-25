@@ -1,0 +1,17 @@
+feat_name=Wyłącz serwer wirtualny zgodnie z harmonogramem
+links_disable=Wyłącz zgodnie z harmonogramem
+check_eat=Polecenie <tt>at</tt> używane do wyłączania domeny zgodnie z harmonogramem nie zostało zainstalowane
+edit_edomain=Wybrany serwer wirtualny nie istnieje!
+edit_title=Wyłącz zgodnie z harmonogramem
+edit_header=Wyłącz serwer wirtualny zgodnie z harmonogramem
+edit_state=Stan obecny
+edit_disabled=Niepełnosprawny
+edit_enabled=Włączone
+edit_when=Kiedy wyłączyć?
+edit_never=Nigdy
+edit_date=Data
+edit_time=Czas
+edit_now=Aktualna data i godzina
+save_err=Nie udało się zapisać zaplanowanego wyłączenia
+save_edate=Nieprawidłowa data lub godzina
+save_edate2=Data wyłączenia była już przeszłością!

@@ -1,0 +1,17 @@
+feat_name=Deaktivieren Sie den virtuellen Server planmäßig
+links_disable=Nach Zeitplan deaktivieren
+check_eat=Der Befehl <tt>at</tt> der zum planmäßigen Deaktivieren der Domäne verwendet wird, ist nicht installiert
+edit_edomain=Der ausgewählte virtuelle Server existiert nicht!
+edit_title=Nach Zeitplan deaktivieren
+edit_header=Deaktivieren Sie den virtuellen Server planmäßig
+edit_state=Aktuellen Zustand
+edit_disabled=Behindert
+edit_enabled=aktiviert
+edit_when=Wann deaktivieren
+edit_never=noch nie
+edit_date=Datum
+edit_time=Zeit
+edit_now=Aktuelles Datum und Uhrzeit
+save_err=Geplante Deaktivierung konnte nicht gespeichert werden
+save_edate=Ungültiges Datum oder ungültige Uhrzeit
+save_edate2=Das zu deaktivierende Datum liegt in der Vergangenheit!

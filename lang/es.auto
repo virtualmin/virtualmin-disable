@@ -1,0 +1,17 @@
+feat_name=Deshabilitar servidor virtual en horario
+links_disable=Deshabilitar en horario
+check_eat=El comando <tt>at</tt> utilizado para deshabilitar el dominio en el horario no está instalado
+edit_edomain=¡El servidor virtual seleccionado no existe!
+edit_title=Deshabilitar en horario
+edit_header=Deshabilitar servidor virtual en horario
+edit_state=Estado actual
+edit_disabled=Discapacitado
+edit_enabled=Habilitado
+edit_when=Cuando deshabilitar
+edit_never=Nunca
+edit_date=Fecha
+edit_time=Hora
+edit_now=Fecha y hora actual
+save_err=Error al guardar la desactivación programada
+save_edate=Fecha u hora inválida
+save_edate2=¡La fecha para deshabilitar está en el pasado!

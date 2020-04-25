@@ -1,0 +1,17 @@
+feat_name=تعطيل الخادم الافتراضي في الموعد المحدد
+links_disable=تعطيل في الموعد
+check_eat=لم يتم تثبيت الأمر <tt>at</tt> المستخدم لتعطيل المجال في الموعد المحدد
+edit_edomain=الخادم الافتراضي المحدد غير موجود!
+edit_title=تعطيل في الموعد
+edit_header=تعطيل الخادم الافتراضي في الموعد المحدد
+edit_state=الوضع الحالي
+edit_disabled=معاق
+edit_enabled=ممكّن
+edit_when=متى يتم تعطيل
+edit_never=أبدا
+edit_date=تاريخ
+edit_time=زمن
+edit_now=التاريخ والوقت الحالي
+save_err=فشل في حفظ التعطيل المجدول
+save_edate=تاريخ أو وقت غير صالح
+save_edate2=تاريخ التعطيل في الماضي!

@@ -1,0 +1,17 @@
+feat_name=Lumpuhkan pelayan maya mengikut jadual
+links_disable=Lumpuhkan mengikut Jadual
+check_eat=Perintah <tt>at</tt> digunakan untuk melumpuhkan domain mengikut jadual tidak dipasang
+edit_edomain=Pelayan maya yang dipilih tidak wujud!
+edit_title=Lumpuhkan mengikut Jadual
+edit_header=Lumpuhkan pelayan maya mengikut jadual
+edit_state=Keadaan sekarang
+edit_disabled=Kurang Upaya
+edit_enabled=Diaktifkan
+edit_when=Bila hendak dilumpuhkan
+edit_never=Tidak pernah
+edit_date=Tarikh
+edit_time=Masa
+edit_now=Tarikh dan masa semasa
+save_err=Gagal menyimpan pelumpuhan berjadual
+save_edate=Tarikh atau masa tidak sah
+save_edate2=Tarikh untuk dilumpuhkan adalah pada masa lalu!

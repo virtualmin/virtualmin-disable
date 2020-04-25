@@ -1,0 +1,17 @@
+feat_name=Vô hiệu hóa máy chủ ảo theo lịch trình
+links_disable=Vô hiệu hóa trên lịch trình
+check_eat=Lệnh <tt>at</tt> được sử dụng để vô hiệu hóa tên miền theo lịch trình không được cài đặt
+edit_edomain=Máy chủ ảo được chọn không tồn tại!
+edit_title=Vô hiệu hóa trên lịch trình
+edit_header=Vô hiệu hóa máy chủ ảo theo lịch trình
+edit_state=Tình trạng hiện tại
+edit_disabled=Tàn tật
+edit_enabled=Đã bật
+edit_when=Khi nào nên tắt
+edit_never=Không bao giờ
+edit_date=Ngày
+edit_time=Thời gian
+edit_now=Ngày giờ hiện tại
+save_err=Không thể lưu vô hiệu hóa theo lịch trình
+save_edate=Ngày hoặc giờ không hợp lệ
+save_edate2=Ngày để vô hiệu hóa là trong quá khứ!

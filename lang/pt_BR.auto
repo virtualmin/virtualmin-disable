@@ -1,0 +1,17 @@
+feat_name=Desativar servidor virtual na programação
+links_disable=Desativar na programação
+check_eat=O comando <tt>at</tt> usado para desativar o domínio na programação não está instalado
+edit_edomain=O servidor virtual selecionado não existe!
+edit_title=Desativar na programação
+edit_header=Desativar servidor virtual na programação
+edit_state=Estado atual
+edit_disabled=Desativado
+edit_enabled=ativado
+edit_when=Quando desativar
+edit_never=Nunca
+edit_date=Encontro
+edit_time=Tempo
+edit_now=Data e hora atuais
+save_err=Falha ao salvar a desativação agendada
+save_edate=Data ou hora inválida
+save_edate2=A data para desativar está no passado!

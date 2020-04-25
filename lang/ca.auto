@@ -1,0 +1,17 @@
+feat_name=Desactivar el servidor virtual a la programació
+links_disable=Desactivar en programació
+check_eat=La comanda <tt>at</tt> utilitzada per desactivar el domini a la programació no està instal·lada
+edit_edomain=El servidor virtual seleccionat no existeix.
+edit_title=Desactivar en programació
+edit_header=Desactivar el servidor virtual a la programació
+edit_state=Estat actual
+edit_disabled=Desactivat
+edit_enabled=Habilitat
+edit_when=Quan desactivar
+edit_never=Mai
+edit_date=Data
+edit_time=Temps
+edit_now=Data i hora actuals
+save_err=No s'ha pogut desar el desactivat programat
+save_edate=Data o hora no vàlides
+save_edate2=La data de desactivació és anterior.

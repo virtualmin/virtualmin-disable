@@ -1,0 +1,17 @@
+feat_name=일정에 따라 가상 서버 비활성화
+links_disable=일정에 따라 비활성화
+check_eat=일정에 따라 도메인을 비활성화하는 데 사용되는 <tt>at</tt> 명령이 설치되지 않았습니다
+edit_edomain=선택한 가상 서버가 없습니다!
+edit_title=일정에 따라 비활성화
+edit_header=일정에 따라 가상 서버 비활성화
+edit_state=현재 상태
+edit_disabled=비활성화
+edit_enabled=가능
+edit_when=비활성화하는시기
+edit_never=못
+edit_date=데이트
+edit_time=시각
+edit_now=현재 날짜와 시간
+save_err=예약 비활성화를 저장하지 못했습니다
+save_edate=유효하지 않은 날짜 또는 시간
+save_edate2=비활성화 할 날짜가 과거입니다!

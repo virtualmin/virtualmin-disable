@@ -1,0 +1,17 @@
+feat_name=Inaktivera virtuell server enligt schema
+links_disable=Inaktivera enligt schema
+check_eat=Kommandot <tt>at</tt> används för att inaktivera domän i schema är inte installerat
+edit_edomain=Den valda virtuella servern finns inte!
+edit_title=Inaktivera enligt schema
+edit_header=Inaktivera virtuell server enligt schema
+edit_state=Nuvarande tillstånd
+edit_disabled=Inaktiverad
+edit_enabled=Aktiverad
+edit_when=När avaktiveras
+edit_never=Aldrig
+edit_date=Datum
+edit_time=Tid
+edit_now=Aktuellt datum och tid
+save_err=Det gick inte att spara schemalagd inaktivering
+save_edate=Ogiltigt datum eller tid
+save_edate2=Datum för inaktivering är tidigare!

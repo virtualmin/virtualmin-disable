@@ -1,0 +1,17 @@
+feat_name=Dezactivați serverul virtual în program
+links_disable=Dezactivează programare
+check_eat=Comanda <tt>at</tt> folosită pentru dezactivarea domeniului în program nu este instalată
+edit_edomain=Serverul virtual selectat nu există!
+edit_title=Dezactivează programare
+edit_header=Dezactivați serverul virtual în program
+edit_state=Starea curenta
+edit_disabled=Dezactivat
+edit_enabled=Activat
+edit_when=Când să dezactivezi
+edit_never=Nu
+edit_date=Data
+edit_time=Timp
+edit_now=Data și ora actuală
+save_err=Nu a reușit să salveze dezactivarea programată
+save_edate=Data sau ora nevalide
+save_edate2=Data dezactivării este în trecut!
