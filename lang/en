@@ -1,4 +1,4 @@
-feat_name=Disable virtual server on schedule
+feat_name=Disable on schedule
 links_disable=Disable On Schedule
 
 check_eat=The <tt>at</tt> command used for disabling domain on schedule is not installed

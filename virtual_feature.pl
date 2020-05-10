@@ -21,16 +21,33 @@ sub feature_name
 return $text{'edit_header'};
 }
 
+# feature_webmin(&main-domain, &all-domains)
+# Returns a list of webmin module names and ACL hash references to be set for
+# the Webmin user when this feature is enabled
+sub feature_webmin
+{
+my @doms = map { $_->{'dom'} } @{$_[1]};
+if (@doms) {
+        return ( [ $module_name,
+                   { 'dom' => join(" ", @doms),
+                     'noconfig' => 1 } ] );
+        }
+return ( );
+}
+
 # feature_always_links(&domain)
 # Returns an array of link objects for webmin modules, regardless of whether
-# this feature is enabled or not
+# this feature is enabled or not for the domain
 sub feature_always_links
 {
 my ($d) = @_;
-return ( { 'mod' => $module_name,
-	   'desc' => $text{'links_disable'},
-	   'page' => 'edit.cgi?dom='.$d->{'id'},
-	   'cat' => 'delete' });
+if (&virtual_server::can_disable_domain($d)) {
+	return ( { 'mod' => $module_name,
+		   'desc' => $text{'links_disable'},
+		   'page' => 'edit.cgi?dom='.$d->{'id'},
+		   'cat' => 'delete' });
+	}
+return ( );
 }
 
 1;
